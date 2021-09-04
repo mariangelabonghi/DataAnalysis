@@ -1,13 +1,13 @@
-# Would you become a data scientist?  
+# Would you like to become a data scientist?  
 # Let's explore skills required and salary expectations from some job listings!
 
 ## by Mariangela Bonghi
 
-This is the first project for the "Data Scientist" [Udacity](https://www.udacity.com) Nanodegree where I analyzed a dataset that contains more than 3900 job listing for data scientist positions.
+This is the first project for the "Data Scientist" [Udacity](https://www.udacity.com) Nanodegree where I analyzed a dataset that contains more than 3900 job listings for data scientist positions.
 
 ## Description
 
-I have found on [Kaggle](https://www.kaggle.com/andrewmvd/data-scientist-jobs) a very interesting dataset created by [picklesueat](https://github.com/picklesueat/data_jobs_data) that contains more than 3900 job listing for data scientist positions, with features such as:
+I have found on [Kaggle](https://www.kaggle.com/andrewmvd/data-scientist-jobs) a very interesting dataset created by [picklesueat](https://github.com/picklesueat/data_jobs_data) that contains more than 3900 job listings for data scientist positions, with features such as:
 
 - Salary Estimate
 - Location
@@ -15,13 +15,14 @@ I have found on [Kaggle](https://www.kaggle.com/andrewmvd/data-scientist-jobs) a
 - Job Description
 - and more.  
 
-The data were collected around 7/8/2020
+The data were collected around 7/8/2020.
 
 The investigation of the dataset will be focused on the following points:
-- What are the most required skills?
+- What is the salary expectation?
 - What are the locations with the higher demands for data scientist?
 - What are the industries with the higher demands for data scientists?
-- What is the salary expectation?
+- What are the most required skills?
+
 
 ## How to...
 
@@ -34,3 +35,7 @@ or
 - download the files: "investigate-a-dataset-project.ipynb", "no_show_appointments.csv";
 - from terminal, in the same folder of the files downloaded in the previous point, run the command `jupyter notebook`;
 - from jupyter interface, click on "investigate-a-dataset-project.ipynb" to open it.
+
+## Medium Blog Post
+
+In this [Medium article] () you can find the main findings of this analysis.
