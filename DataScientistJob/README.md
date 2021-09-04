@@ -38,4 +38,4 @@ or
 
 ## Medium Blog Post
 
-In this [Medium article] () you can find the main findings of this analysis.
+In this [Medium article] (https://medium.com/@mariangela.bonghi/would-you-like-to-become-a-data-scientist-c02e7d228bdf) you can find the main findings of this analysis.
